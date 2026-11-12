@@ -18,7 +18,7 @@
 
 Medical insurance costs can vary with factors such as age, body mass index (BMI), smoking status, family size, and region. This project provides a web interface for estimating insurance charges using a **Decision Tree Regressor** saved as a serialized machine learning model.
 
-Users enter six details, submit the form, and receive a predicted cost in an interactive analytics dashboard. The application is built with **Flask** and includes a responsive glassmorphism interface, dark/light theme toggle, and a Chart.js comparison chart.
+Users enter six details, submit the form, and receive a predicted cost in an interactive analytics dashboard. The application is built with **Flask** and includes a responsive glassmorphism interface, dark/light theme toggle, and a Chart.js comparison chart..
 
 > **Disclaimer:** Predictions are estimates for educational and demonstration purposes, not medical advice, guaranteed insurance quotes, or individualized financial recommendations.
 
